@@ -1,9 +1,10 @@
 Package: validann
 Type: Package
 Title: Validation Tools for Artificial Neural Networks
-Version: 1.0.0
-Date: 2016-07-21
-Authors@R: person("Greer B.", "Humphrey", email = "greer.humphrey@adelaide.edu.au",
+Version: 1.1.0
+Date: 2016-11-08
+Authors@R: person("Greer B.", "Humphrey",
+                  email = "greer.humphrey@student.adelaide.edu.au",
                   role = c("aut", "cre"))
 Description: Methods and tools for analysing and validating the outputs
     and modelled functions of artificial neural networks (ANNs) in terms
@@ -15,9 +16,10 @@ Suggests: nnet, knitr, rmarkdown
 License: GPL (>= 2)
 URL: http://github.com/gbhumphrey1/validann
 BugReports: http://github.com/gbhumphrey1/validann/issues
+RoxygenNote: 5.0.1
 NeedsCompilation: no
-Packaged: 2016-07-21 13:11:35 UTC; ghumphrey
+Packaged: 2016-11-08 02:05:48 UTC; ghumphrey
 Author: Greer B. Humphrey [aut, cre]
-Maintainer: Greer B. Humphrey <greer.humphrey@adelaide.edu.au>
+Maintainer: Greer B. Humphrey <greer.humphrey@student.adelaide.edu.au>
 Repository: CRAN
-Date/Publication: 2016-07-21 19:09:23
+Date/Publication: 2016-11-08 08:10:29
