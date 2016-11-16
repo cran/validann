@@ -1,9 +1,9 @@
-58cdc7cbbda847d156c20aeb9177bc83 *DESCRIPTION
+d00b5a2afb344fc79b956562c4b26e5a *DESCRIPTION
 5e43d4c7079c4cb990da6ef80031abdc *NAMESPACE
 dc274a3fc9dd5929a641e3c80ce88544 *R/ann.R
 c0a14fdc9074d299869c6bfe8056b6d9 *R/ar9.R
 cffef967455db4c664e41d7d78d69f1b *R/plot.validann.R
-3372c3a12518fad51cd04cdda790c2c8 *R/validann.R
+34dc0f62a8addded8d0ba1fabd386b24 *R/validann.R
 14be9b0d79f0018046268115e554dd3d *data/ar9.rdata
 136437fb236e3163c1d0097ab19cba45 *inst/CITATION
 ea0d8ce493f82b2f378cf1f4f32bbe2e *man/ann.Rd
@@ -11,4 +11,4 @@ ea0d8ce493f82b2f378cf1f4f32bbe2e *man/ann.Rd
 fd1298ae19dd6e2d3512985e072552ea *man/observed.Rd
 ec26bc9f7715ab687bb9b63e8dc4270f *man/plot.validann.Rd
 61f4206b62996da553eded6b1106688d *man/predict.ann.Rd
-0155e118ace5b0dfd79e822f09c87fef *man/validann.Rd
+52cab887922174220e3cc91704e34237 *man/validann.Rd
