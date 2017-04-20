@@ -1,12 +1,23 @@
 citHeader("To cite validann in publications use:")
 
-citEntry(entry = "Manual",
-  title        = "validann: Validation Tools for Artificial Neural Networks",
-  author       = personList(as.person("Greer B. Humphrey")),
-  year         = "2016",
+citEntry(entry = "Article",
+  title        = "Improved validation framework and R-package for artificial neural network models",
+  author       = personList(as.person("Humphrey, G.B."),
+                            as.person("Maier, H.R."),
+                            as.person("Wu, W."),
+                            as.person("Mount, N.J."),
+                            as.person("Dandy, G.C."),
+                            as.person("Abrahart, R.J."),
+                            as.person("Dawson, C.W.")),
+  journal      = "Environmental Modelling & Software",
+  year         = "2017",
+  volume       = "92",
+  pages        = "82--106",
+  url          = "http://doi.org/10.1016/j.envsoft.2017.01.023",
 
   textVersion  =
-  paste("Greer B. Humphrey (2016).",
-        "validann: Validation tools for artificial neural networks.",
-        "URL http://cran.r-project.org/web/packages/validann/.")
+  paste("Humphrey, G.B., Maier, H.R., Wu, W., Mount, N.J., Dandy, G.C., Abrahart, R.J., Dawson, C.W. (2017).",
+        "Improved validation framework and R-package for artificial neural network models.",
+        "Environmental Modelling & Software, 92, 82-106.",
+        "URL http://doi.org/10.1016/j.envsoft.2017.01.023.")
 )
